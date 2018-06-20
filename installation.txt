@@ -1,0 +1,21 @@
+INSTALLATION INSTRUCTIONS;
+************************************************************************************************
+1. Install a webserver( WAMPP OR XAMPP OR MAMP OR AMPPS)
+2. Create a database named : "project"
+3. Import the project.sql File into the database that you have just creeated in the above step
+4. copy the unzipped folder to your directory( www for WAMP and MAMP while htdocs for XAMPP)
+5. Go to your browser( Mozilla Firefox, Chrome, Edge, Safari, Torch, Opera etc.)
+6. Go to the url address that you have uploaded your folder to eg : http://localhost/foldername/
+7. For admininstration go to the url address that you have uploaded your folder to eg : http://localhost/foldername/login.php
+8. Default username is : ncuben and password is : charity for Administrators
+9. Default Church members is username:fortue password is chiratidzo
+
+*************************************************************************************************
+
+Developer I: 	Ncube Ntokozo
+Cell:							+263712948663 OR +263774002534
+Developer Email:				ncuben@solusi.ac.zw
+
+Developer II: Fortunate Chiratidzo Mandizwidza
+Cell:                           +263773799023
+Developer Email: 				fcmurenzvi@gmail.com
