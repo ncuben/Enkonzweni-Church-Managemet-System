@@ -15,8 +15,8 @@ for the churches.Its scalable to greater heights with more room for continous de
 This systems runs on Mysql database.
 Remember to keep the Sabbath Day Holy;
 *******************************************************************
-Developer I: 	Ncube Ntokozo
-Cell:							+263712948663 OR +263774002534
+Developer I: 	      Ncube Ntokozo
+Cell:							  +263712 948663 OR +263774 002534
 Developer Email:				ncuben@solusi.ac.zw
 
 Developer II: Fortunate Chiratidzo Mandizwidza
