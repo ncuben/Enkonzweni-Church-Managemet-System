@@ -1,4 +1,4 @@
- <?php session_start(); 
+ <?php session_start(); //Old code indeed
 if (!isset($_SESSION['user_id']))
     header("Location: index.php");?>
 	<?php include ("inc/header.php");
